@@ -1,0 +1,21 @@
+# Build outputs
+*.o
+*.exe
+*.hex
+*.bin
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# BlueJ
+*.class
+
+# Arduino
+*.ino
+
+# General
+*.log
