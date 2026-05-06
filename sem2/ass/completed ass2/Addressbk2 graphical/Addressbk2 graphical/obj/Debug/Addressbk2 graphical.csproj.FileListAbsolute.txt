@@ -1,0 +1,68 @@
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.AssemblyReference.cache
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form1.resources
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Properties.Resources.resources
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.GenerateResource.cache
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.CoreCompileInputs.cache
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe.config
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form2.resources
+C:\Users\LAU\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form3.resources
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.AssemblyReference.cache
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form1.resources
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form2.resources
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form3.resources
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Properties.Resources.resources
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.GenerateResource.cache
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.CoreCompileInputs.cache
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe.config
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\addressbk2 old\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.create_record_enter_info.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe.config
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.pdb
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csprojAssemblyReference.cache
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Choice3.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.create_record_enter_info.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form1.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form2.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form3.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Properties.Resources.resources
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.GenerateResource.cache
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.CoreCompileInputs.cache
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.exe
+F:\computer programming\sem2\16mat jump down\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.pdb
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe.config
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.pdb
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csprojAssemblyReference.cache
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Choice3.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.create_record_enter_info.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form1.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form2.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form3.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Properties.Resources.resources
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.GenerateResource.cache
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.CoreCompileInputs.cache
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.exe
+C:\Users\21100151d\Desktop\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe.config
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\bin\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Choice3.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.create_record_enter_info.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form1.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Form2.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.choice5.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.Properties.Resources.resources
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.GenerateResource.cache
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.CoreCompileInputs.cache
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.exe
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.pdb
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2 graphical.csproj.AssemblyReference.cache
+C:\Users\LAU\Desktop\17may\Addressbk2 graphical\Addressbk2 graphical\obj\Debug\Addressbk2_graphical.choice4.resources

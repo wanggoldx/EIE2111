@@ -1,0 +1,10 @@
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\bin\Debug\lab09.exe.config
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\bin\Debug\lab09.exe
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\bin\Debug\lab09.pdb
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.csproj.AssemblyReference.cache
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.Form1.resources
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.Properties.Resources.resources
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.csproj.GenerateResource.cache
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.csproj.CoreCompileInputs.cache
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.exe
+C:\Users\LAU\Desktop\year1 sem2 computer\lab09\lab09\obj\Debug\lab09.pdb

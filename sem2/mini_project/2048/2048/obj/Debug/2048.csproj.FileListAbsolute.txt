@@ -1,0 +1,36 @@
+C:\Users\LAU\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\LAU\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\LAU\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\_2048.Form2.resources
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\2048.pdb
+C:\Users\LAU\Desktop\2048\2048\obj\Debug\_2048.Form3.resources
+F:\computer programming\sem2\2048\2048\bin\Debug\2048.exe.config
+F:\computer programming\sem2\2048\2048\bin\Debug\2048.exe
+F:\computer programming\sem2\2048\2048\bin\Debug\2048.pdb
+F:\computer programming\sem2\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+F:\computer programming\sem2\2048\2048\obj\Debug\_2048.Form1.resources
+F:\computer programming\sem2\2048\2048\obj\Debug\_2048.Form2.resources
+F:\computer programming\sem2\2048\2048\obj\Debug\_2048.Form3.resources
+F:\computer programming\sem2\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+F:\computer programming\sem2\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+F:\computer programming\sem2\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+F:\computer programming\sem2\2048\2048\obj\Debug\2048.exe
+F:\computer programming\sem2\2048\2048\obj\Debug\2048.pdb
+C:\Users\21100151d\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\21100151d\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\21100151d\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\_2048.Form2.resources
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\_2048.Form3.resources
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\21100151d\Desktop\2048\2048\obj\Debug\2048.pdb

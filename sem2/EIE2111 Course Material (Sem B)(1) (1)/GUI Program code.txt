@@ -1,0 +1,287 @@
+//Example 1
+string message = "Hello ";
+string title = "Welcome";
+MessageBox.Show(message, title, MessageBoxButtons.OK);
+
+//Example 2
+String message = "Hello ";
+String title = "Welcome";
+int a = 12;
+string c = message + a + " Hello again! " + textBox1.Text;
+MessageBox.Show(c, title, MessageBoxButtons.OK);
+
+//Example 3
+
+//Example3_Class.h
+#pragma once
+class Example3_Class
+{
+public:
+	Example3_Class(int);
+	int getA();
+private:
+	int a;
+};
+
+//Example3_Class.cpp
+#include "Example3_Class.h"
+
+Example3_Class::Example3_Class(int b)
+{
+	a = b;
+}
+
+int Example3_Class::getA()
+{
+	return a;
+}
+
+
+//Example3_DLL.cpp
+#include "Example3_Class.h"
+
+extern "C"
+{
+
+	__declspec(dllexport) int doSomething(int x, int y)
+	{
+		Example3_Class obj(20);
+		return x + y + obj.getA();
+	}
+}
+
+//Form1.cs
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using System.Runtime.InteropServices;
+
+namespace GUIExample3
+{
+    public partial class Form1 : Form
+    {
+
+        [DllImport("Example3_DLL.dll")]
+        public static extern int doSomething(int a, int b);
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string string1 = "" + doSomething(Int32.Parse(textBox1.Text), Int32.Parse(textBox2.Text));
+            MessageBox.Show(string1, "Example 3", MessageBoxButtons.OK);
+        }
+    }
+}
+
+//Example 4
+//Form1.cs
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+using System.IO;
+
+namespace ReadWriteTextFiles
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            String line;
+            try
+            {
+                StreamReader sr = new StreamReader(textBox1.Text);
+                StreamWriter sw = new StreamWriter(textBox2.Text);
+
+                line = sr.ReadLine();
+                while (line != null)
+                {
+                    MessageBox.Show(line, "File Content", MessageBoxButtons.OK);
+                    sw.WriteLine(line);
+                    line = sr.ReadLine();
+                }
+                  
+                sr.Close();
+                sw.Close();
+            }
+            finally
+            {
+                MessageBox.Show("Last one", "End", MessageBoxButtons.OK);
+            }
+        }
+    }
+}
+
+//Example 5
+//Form1.cs (for the function button1_Click only)
+        private void button1_Click(object sender, EventArgs e)
+        {
+                int card = 0;   // 0 = no card, 1 = sA, 2 = hA 3 = cA, 4 = dA
+                if (radioButton1.Checked) card = 1; // spade ace selected
+                if (radioButton2.Checked) card = 2; // heart ace selected
+                if (radioButton3.Checked) card = 3; // club ace selected
+                if (radioButton4.Checked) card = 4; // diamond ace selected
+
+                Form2 F2 = new Form2(card);
+                F2.ShowDialog();
+        }
+
+//Form2.cs (for the constructor and the function button1_Click only)
+        public Form2(int c)
+        {
+            InitializeComponent();
+            card = c;
+            face = 0;
+            ShowCard();
+        }
+
+        private int card, face;
+
+
+
+        void ShowCard()
+        {
+            if (card == 0) pictureBox1.Visible = false;
+            if (card == 1)
+            {
+                pictureBox1.Visible = true;
+                pictureBox1.Image = Image.FromFile("images\\s1.jpg");
+            }
+            if (card == 2)
+            {
+                pictureBox1.Visible = true;
+                pictureBox1.Image = Image.FromFile("images\\h1.jpg");
+                
+            }
+            if (card == 3)
+            {
+                pictureBox1.Visible = true;
+                pictureBox1.Image = Image.FromFile("images\\c1.jpg");
+            }
+            if (card == 4)
+            {
+                pictureBox1.Visible = true;
+                pictureBox1.Image = Image.FromFile("images\\d1.jpg");
+            }
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            if (card != 0) // card = 0 means no card is selected
+            {
+                if (face == 0) // face = 0 means face-up
+                {
+                    pictureBox1.Image = Image.FromFile("images\\back.jpg");
+                    face = 1; // facing down the card    
+                }
+                else
+                {
+                    ShowCard();
+                    face = 0; // currently face-up
+                }
+            }
+        }
+
+//Example 6
+//Form1.cs (for the function button1_Click only)
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int localX;
+            localX = 0;
+
+            localX = Int32.Parse(textBox1.Text) + Int32.Parse(textBox2.Text);
+            Form2 F2 = new Form2(localX);
+            F2.ShowDialog();
+            textBox1.Text = ""+F2.def();
+        }
+
+//Form2.cs (for the constructor and the function button1_Click only)
+        public Form2(int a)
+        {
+            InitializeComponent();
+            textBox1.Text = ""+ a;
+
+        }
+
+        public int values;
+
+        public int def()
+        {
+            return values;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            values = System.Convert.ToInt32(textBox1.Text) + 
+                      System.Convert.ToInt32(textBox2.Text);
+            textBox3.Text = "" + values;
+        }
+    }
+
+//Example 7
+//Form1.cs (for the constructors, new variable and all event handler)
+        public Form1()
+        {
+            x = 0;
+            InitializeComponent();
+        }
+
+        private int x;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.DoubleBuffered = true;
+            this.Paint += Form1_Paint;
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics  g = e.Graphics;
+            if (x < this.Size.Width - 1) { x += 1; }
+            	else { x = 0; }
+
+            Bitmap bp = new Bitmap(Image.FromFile("images\\h1.jpg"));
+            g.DrawImage(bp, x, 25);
+
+            Rectangle Head = new Rectangle(this.Size.Width - 100 - x, 25, 70, 70);
+            g.FillEllipse(Brushes.Yellow, Head);
+
+            Pen  b4pen = new Pen(Color.Black, 4);
+            g.DrawEllipse(b4pen, Head);
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (x % 10 == 0) // If X is a multiple of 10,
+            {
+                label1.Text = "" + x; // show its value on label1
+            }
+            this.Invalidate();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = !(timer1.Enabled);
+        }

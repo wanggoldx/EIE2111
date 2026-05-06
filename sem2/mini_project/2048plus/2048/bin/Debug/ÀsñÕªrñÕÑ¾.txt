@@ -1,0 +1,5 @@
+Alan 1000000
+alize 10000
+Kobe 3456
+sam 456
+george 0
